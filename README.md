@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand262&label=Profile%20views&color=0e75b6&style=flat" alt="anand262" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anandshinde023" target="blank"><img src="https://img.shields.io/twitter/follow/anandshinde023?logo=twitter&style=for-the-badge" alt="anandshinde023" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://myportfolio023.netlify.app/](https://myportfolio023.netlify.app/)
 
 - 💬 Ask me about **React JS, Node JS, SQL**
